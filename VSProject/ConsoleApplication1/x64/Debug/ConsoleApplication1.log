@@ -1,0 +1,4 @@
+﻿  matMulSeq.cpp
+C:\Users\mrsem\Desktop\HPC\Lab1\matMulSeq.cpp(47,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrsem\Desktop\HPC\Lab1\matMulSeq.cpp(48,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\mrsem\Desktop\HPC\Lab1\VSProject\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
